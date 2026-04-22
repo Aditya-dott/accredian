@@ -97,7 +97,7 @@ Visit: http://localhost:3000
 
 ## 🤖 AI Usage
 
-AI tools (**ChatGPT, GitHub Copilot, Antigravity**) were used as development assistants — not as replacements for decision-making.
+AI tools (**Claude, GitHub Copilot, Antigravity**) were used as development assistants — not as replacements for decision-making.
 
 ### Where AI Helped
 
